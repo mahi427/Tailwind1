@@ -1,2 +1,3 @@
 # Tailwind1
-this is my first Tailwind repository.
+This is my first Tailwind repository.
+Author- Mehak Arora
